@@ -11,6 +11,8 @@
 
 //CODE HERE
 
+let gitDefinition = 'Git is software for tracking changes to a coding file.'
+
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,6 +20,8 @@
 */
 
 //CODE HERE
+
+let gitHubDefinition = 'GitHub is a free website that allows you to store your gits in the cloud and share it and collaborate on it with others.'
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -27,6 +31,9 @@
 
 //CODE HERE
 
+gitInitDefinition = '\"git init\" will initiate a git for the files in your current folder'
+console.log(gitInitDefinition)
+
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -35,6 +42,7 @@
 
 //CODE HERE
 
+let gitCloneDefinition = '\"git clone\" is used to make a clone or copy of an existing repo at in a new directory, at another location'
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,6 +50,8 @@
 */
 
 //CODE HERE
+
+let gitStatusDefinition = ''
 
 //////////////////PROBLEM 6////////////////////
 /*
