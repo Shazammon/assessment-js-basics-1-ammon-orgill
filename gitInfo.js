@@ -31,7 +31,7 @@ let gitHubDefinition = 'GitHub is a free website that allows you to store your g
 
 //CODE HERE
 
-gitInitDefinition = '\"git init\" will initiate a git for the files in your current folder'
+gitInitDefinition = 'The \"git init\" command will initiate a git for the files in your current folder.'
 console.log(gitInitDefinition)
 
 //////////////////PROBLEM 4////////////////////
@@ -42,7 +42,7 @@ console.log(gitInitDefinition)
 
 //CODE HERE
 
-let gitCloneDefinition = '\"git clone\" is used to make a clone or copy of an existing repo at in a new directory, at another location'
+let gitCloneDefinition = 'The \"git clone\" command is used to make a clone or copy of an existing repo at in a new directory, at another location.'
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -51,7 +51,9 @@ let gitCloneDefinition = '\"git clone\" is used to make a clone or copy of an ex
 
 //CODE HERE
 
-let gitStatusDefinition = ''
+let gitStatusDefinition = 'The \"git status\" command displays the state of the working directory and the staging area, allowing you to see which changes have been and have not been staged.'
+console.log(gitStatusDefinition)
+
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -64,6 +66,11 @@ let gitStatusDefinition = ''
 
 //CODE HERE
 
+let gitAddDefinition = 'The \"git add\" command adds all your latest changes to the staging area so that they are ready to be committed.'
+
+let gitAddCode = 'git add .'
+
+
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -75,6 +82,10 @@ let gitStatusDefinition = ''
 
 //CODE HERE
 
+let gitCommitDefinition = 'The \"git commit\" command captures a screenshot of all your changes that you\'ve added to staging.'
+let gitCommitCode = 'git commit -m \"enter your commit name here\"'
+
+
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -83,3 +94,5 @@ let gitStatusDefinition = ''
 */
 
 //CODE HERE
+
+let gitPushDefinition = 'The \"git push\" command is used to upload your commits stored in a local repository to a remote repository somewhere.'
